@@ -1,1 +1,1 @@
-# revuebancal_php
+# Revue Bancal version PHP
